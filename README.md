@@ -28,7 +28,7 @@ Contiene los ejercicios del tema Visualización, así como carpetas donde se ha 
 
 ## Integrantes :woman:
 ***
-  *[Irene](https://github.com/lau-ont)
+  *[Irene](https://github.com/ipowersrodriguez)
   *[Ximena](https://github.com/XimenaPTM)
 
 
