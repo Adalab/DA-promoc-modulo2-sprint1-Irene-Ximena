@@ -26,7 +26,7 @@ Contiene los ejercicios del tema Pandas, así como carpetas donde se ha guardado
 Contiene los ejercicios del tema Visualización, así como carpetas donde se ha guardado los ficheros para el desarrollo de los ejercicios o el resultado de los mismos.
 
 
-## Integrantes :woman:
+## Integrantes :woman::woman:
 ***
   *[Irene](https://github.com/ipowersrodriguez)
   *[Ximena](https://github.com/XimenaPTM)
