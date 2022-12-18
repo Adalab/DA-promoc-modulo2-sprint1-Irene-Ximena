@@ -8,7 +8,8 @@ Este repositorio contiene los ejercicios del módulo 2, sprint 1, del Bootcamp d
 1. [Numpy](#Tema1)
 2. [Pandas](#Tema2)
 3. [Visualización](#Tema3)
-4. [Integrantes](#integrantes)
+4. [Conceptos de estadística](#Tema4)
+5. [Integrantes](#integrantes)
 
 ## Numpy :abacus:
 ***
@@ -25,6 +26,9 @@ Contiene los ejercicios del tema Pandas, así como carpetas donde se ha guardado
 ***
 Contiene los ejercicios del tema Visualización, así como carpetas donde se ha guardado los ficheros para el desarrollo de los ejercicios o el resultado de los mismos.
 
+## Conceptos de Estadística :file_cabinet:
+***
+Contiene los ejercicios del tema conceptos de Estadística, así como carpetas donde se ha guardado los ficheros para el desarrollo de los ejercicios o el resultado de los mismos.
 
 ## Integrantes :woman::woman:
 ***
