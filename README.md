@@ -5,12 +5,12 @@ Este repositorio contiene los ejercicios del módulo 2, sprint 1, del Bootcamp d
 
 ## Indice 	:computer:
 
-1. [Numpy](#Tema1)
+1. [Numpy](## Numpy :abacus:)
 2. [Pandas](#Tema2)
 3. [Visualización](#Tema3)
 4. [Integrantes](#integrantes)
 
-# Numpy :abacus:
+## Numpy :abacus:
 ***
 
 Contiene los cuatro ejercicios del tema Numpy
