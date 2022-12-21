@@ -1,7 +1,7 @@
 # DA-promoc-modulo2-sprint1-Irene-Ximena
 Repositorio del módulo 2, sprint 1.
 
-Este repositorio contiene los ejercicios del módulo 2, sprint 1, del Bootcamp de Análisis de Datos de Adalab en que se trabajan las siguientes temáticas:
+Este repositorio contiene los ejercicios del módulo 2, sprint 1, del Bootcamp de Análisis de Datos de Adalab en que se trabajan las siguientes temáticas: Numpy, Panas, Viasualización y Conceptos estadísticos.
 
 
 ## Indice 	:computer:
